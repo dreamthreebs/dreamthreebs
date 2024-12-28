@@ -6,7 +6,7 @@
 
 <details>
   <summary>My snake</summary>
-  <img src="https://raw.githubusercontent.com/dreamthreebs/dreamthreebs/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="dark snake" >
+  <img src="https://raw.githubusercontent.com/dreamthreebs/dreamthreebs/refs/heads/output/github-contribution-grid-snake.svg" alt="dark white" >
 </details>
 
 <!--
